@@ -1,0 +1,11 @@
+direct_identifiers:
+  - patient_id
+  - social_security
+  - full_name
+
+quasi_identifiers:
+  - gender
+  - birth_year
+  - zip_code
+
+suppression_threshold: 5  # Minimum group size
