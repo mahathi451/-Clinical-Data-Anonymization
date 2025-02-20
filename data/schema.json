@@ -1,0 +1,7 @@
+{
+  "patient_id": "string",
+  "birth_date": "date",
+  "diagnosis": "string",
+  "treatment": "string",
+  "outcome": "boolean"
+}
